@@ -11,3 +11,12 @@ ul li {
     color:rgb(240, 229, 229);
     text-align:center;
 }
+
+div {
+    background: green;
+    border:1px solid blue;
+}
+
+p {
+    font-size: 1.2rem;
+}
